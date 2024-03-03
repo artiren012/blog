@@ -4,7 +4,7 @@ description: "프로그래밍 기록을 모은 작은 서고"
 permalink: /:title/
 lang: "ko"
 excerpt_separator: "\n\n\n"
-date_format: "%Y. %B. %d"
+date_format: "%B %d, %Y"
 
 # Layout
 

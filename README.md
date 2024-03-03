@@ -1,7 +1,2 @@
----
-title: "About"
-permalink: "/about/"
-layout: page
----
-
-준비 중이에요.
+# Blog
+[Link](https://artiren012.github.io/blog)
